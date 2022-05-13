@@ -1,3 +1,3 @@
 console.log("Hello, World!")
 
-console.log("TEST")
+console.log("알고리즘 파이팅!")

@@ -3,5 +3,8 @@
 
 function solution(x, n) {
     var answer = [];
+    for (let i = 1; i <= n; i++) { //n개만큼 출력하게 할 거니까 i<=n
+        answer.push(x*i) //push()를 사용해 배열에 데이터값을 넣는다
+    }
     return answer;
 }
